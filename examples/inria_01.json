@@ -1,0 +1,149 @@
+[
+ {
+  "URL": "https://twitter.com/statuses/981565061352382466",
+  "definition": "A digital option. ",
+  "isHorizontal": true,
+  "position": "(0,0)",
+  "value": "DIGITAL"
+ },
+ {
+  "URL": "https://twitter.com/statuses/981565061352382466",
+  "definition": "The act of innovating; the introduction of something new, in customs, rites, etc. ",
+  "isHorizontal": false,
+  "position": "(1,0)",
+  "value": "INNOVATION"
+ },
+ {
+  "URL": "https://twitter.com/statuses/981565061352382466",
+  "definition": "An inbound shipment. ",
+  "isHorizontal": false,
+  "position": "(3,0)",
+  "value": "INBOUND"
+ },
+ {
+  "URL": "https://twitter.com/statuses/981567178011967488",
+  "definition": "A car manufactured by Peugeot. ",
+  "isHorizontal": true,
+  "position": "(-4,8)",
+  "value": "PEUGEOT"
+ },
+ {
+  "URL": "https://twitter.com/statuses/981567178011967488",
+  "definition": "prostate-specific antigen ",
+  "isHorizontal": true,
+  "position": "(-1,5)",
+  "value": "PSA"
+ },
+ {
+  "URL": "https://twitter.com/statuses/981567178011967488",
+  "definition": "A machine or device that converts any form of energy into mechanical energy, or imparts motion. ",
+  "isHorizontal": true,
+  "position": "(0,3)",
+  "value": "MOTOR"
+ },
+ {
+  "URL": "https://twitter.com/statuses/981569398052814849",
+  "definition": "To run a process with a specified (usually lower) priority. ",
+  "isHorizontal": true,
+  "position": "(3,5)",
+  "value": "NICE"
+ },
+ {
+  "URL": "https://twitter.com/statuses/981569902539689985",
+  "definition": "An audio programme produced on a regular basis, delivered over the Internet in a compressed digital format and designed for playback on computers or portable digital audio players, such as the iPod. ",
+  "isHorizontal": false,
+  "position": "(5,-4)",
+  "value": "PODCAST"
+ },
+ {
+  "URL": "https://twitter.com/statuses/981569902539689985",
+  "definition": "Sought out and chosen with care. ",
+  "isHorizontal": false,
+  "position": "(6,4)",
+  "value": "RECHERCHE"
+ },
+ {
+  "URL": "https://twitter.com/statuses/981572942197919745",
+  "definition": "The process of imparting knowledge, skill and judgment. ",
+  "isHorizontal": true,
+  "position": "(-2,-3)",
+  "value": "EDUCATION"
+ },
+ {
+  "URL": "https://twitter.com/statuses/981572942197919745",
+  "definition": "Something possessing structure or form. ",
+  "isHorizontal": true,
+  "position": "(4,9)",
+  "value": "FORMATION"
+ },
+ {
+  "URL": "https://twitter.com/statuses/981581094284857345",
+  "definition": "A place for gathering. ",
+  "isHorizontal": false,
+  "position": "(-1,7)",
+  "value": "AGORA"
+ },
+ {
+  "URL": "https://twitter.com/statuses/981584067547234306",
+  "definition": "The ability to move; capacity for movement. ",
+  "isHorizontal": false,
+  "position": "(10,4)",
+  "value": "MOBILITY"
+ },
+ {
+  "URL": "https://twitter.com/statuses/981601289707585536",
+  "definition": "A massive open online course designed for a very large enrollment, offered on the World Wide Web by an educational institution and typically free of charge. ",
+  "isHorizontal": true,
+  "position": "(8,5)",
+  "value": "MOOC"
+ },
+ {
+  "URL": "https://twitter.com/statuses/981622318257582083",
+  "definition": "An act or instance of nominating. ",
+  "isHorizontal": true,
+  "position": "(-6,11)",
+  "value": "NOMINATION"
+ },
+ {
+  "URL": "https://twitter.com/statuses/981756456612651009",
+  "definition": "New information of interest. ",
+  "isHorizontal": false,
+  "position": "(-2,-4)",
+  "value": "NEWS"
+ },
+ {
+  "URL": "https://twitter.com/statuses/981778657323732992",
+  "definition": "An extensive area of relatively flat grassland with few, if any, trees, especially in North America. ",
+  "isHorizontal": false,
+  "position": "(8,7)",
+  "value": "PRAIRIE"
+ },
+ {
+  "URL": "https://twitter.com/statuses/981788780674809856",
+  "definition": "A branch of linguistics studying the meaning of words. ",
+  "isHorizontal": true,
+  "position": "(-10,-1)",
+  "value": "SEMANTICS"
+ },
+ {
+  "URL": "https://twitter.com/statuses/981788780674809856",
+  "definition": "The art or science of cultivating the ground, including the harvesting of crops, and the rearing and management of livestock; tillage; husbandry; farming. ",
+  "isHorizontal": false,
+  "position": "(-7,-1)",
+  "value": "AGRICULTURE"
+ },
+ {
+  "URL": "https://twitter.com/statuses/981790544623005696",
+  "definition": "A group or bunch of several discrete items that are close to each other. ",
+  "isHorizontal": true,
+  "position": "(-9,4)",
+  "value": "CLUSTER"
+ },
+ {
+  "URL": "https://twitter.com/statuses/981790544623005696",
+  "definition": "Personal Injury Accident ",
+  "isHorizontal": false,
+  "position": "(-4,-2)",
+  "value": "PIA"
+ }
+]
